@@ -1,0 +1,7 @@
+﻿MaquinaID;Maquina;Setor;CicloIdealMin
+M01;Prensa 01;Estamparia;0.6
+M02;Solda 02;Solda;1.2
+M03;Robô 03;Carroceria;0.4
+M04;Pintura 04;Pintura;0.7
+M05;Montagem 05;Montagem;1.1
+M06;Inspeção 06;Qualidade;0.5

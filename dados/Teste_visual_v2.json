@@ -1,0 +1,11 @@
+{
+  "rendered": true,
+  "flowAdvances": true,
+  "stopAndResume": true,
+  "singleAndMultiSelection": true,
+  "pause": true,
+  "cameras": true,
+  "roof": true,
+  "mobileNoOverflow": true,
+  "pageErrors": []
+}

@@ -1,0 +1,26 @@
+{
+  "visual": {
+    "name": "fabrica3d",
+    "displayName": "Fábrica Automotiva 3D | Paulo Beni",
+    "guid": "fabrica3dB61B3D76020E41AC9124112B85BE4647",
+    "visualClassName": "Visual",
+    "version": "2.0.0.0",
+    "description": "Linha de montagem automotiva animada, galpão, robôs, logística e seleção nativa Power BI.",
+    "supportUrl": "https://learn.microsoft.com/power-bi/developer/visuals/",
+    "gitHubUrl": ""
+  },
+  "apiVersion": "5.11.1",
+  "author": {
+    "name": "Paulo Beni",
+    "email": "contato@example.com"
+  },
+  "assets": {
+    "icon": "assets/icon.png"
+  },
+  "externalJS": null,
+  "style": "style/visual.less",
+  "capabilities": "capabilities.json",
+  "dependencies": null,
+  "stringResources": [],
+  "version": "2.0.0.0"
+}

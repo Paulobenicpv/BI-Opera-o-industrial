@@ -1,0 +1,133 @@
+{
+  "privileges": [],
+  "dataRoles": [
+    {
+      "name": "machine",
+      "displayName": "M\u00e1quina",
+      "kind": "Grouping"
+    },
+    {
+      "name": "status",
+      "displayName": "Status (0, 1, 2)",
+      "kind": "Measure"
+    },
+    {
+      "name": "oee",
+      "displayName": "OEE (0 a 1)",
+      "kind": "Measure"
+    },
+    {
+      "name": "mtbf",
+      "displayName": "MTBF (horas)",
+      "kind": "Measure"
+    },
+    {
+      "name": "mttr",
+      "displayName": "MTTR (horas)",
+      "kind": "Measure"
+    },
+    {
+      "name": "production",
+      "displayName": "Produ\u00e7\u00e3o (pe\u00e7as)",
+      "kind": "Measure"
+    },
+    {
+      "name": "orders",
+      "displayName": "OS abertas",
+      "kind": "Measure"
+    }
+  ],
+  "dataViewMappings": [
+    {
+      "conditions": [
+        {
+          "machine": {
+            "min": 1,
+            "max": 1
+          },
+          "status": {
+            "max": 1
+          },
+          "oee": {
+            "max": 1
+          },
+          "mtbf": {
+            "max": 1
+          },
+          "mttr": {
+            "max": 1
+          },
+          "production": {
+            "max": 1
+          },
+          "orders": {
+            "max": 1
+          }
+        }
+      ],
+      "categorical": {
+        "categories": {
+          "for": {
+            "in": "machine"
+          },
+          "dataReductionAlgorithm": {
+            "top": {
+              "count": 60
+            }
+          }
+        },
+        "values": {
+          "select": [
+            {
+              "bind": {
+                "to": "status"
+              }
+            },
+            {
+              "bind": {
+                "to": "oee"
+              }
+            },
+            {
+              "bind": {
+                "to": "mtbf"
+              }
+            },
+            {
+              "bind": {
+                "to": "mttr"
+              }
+            },
+            {
+              "bind": {
+                "to": "production"
+              }
+            },
+            {
+              "bind": {
+                "to": "orders"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "supportsHighlight": false,
+  "supportsLandingPage": true,
+  "supportsEmptyDataView": true,
+  "supportsKeyboardFocus": true,
+  "objects": {
+    "motion": {
+      "displayName": "Anima\u00e7\u00e3o",
+      "properties": {
+        "enabled": {
+          "displayName": "Habilitar anima\u00e7\u00e3o",
+          "type": {
+            "bool": true
+          }
+        }
+      }
+    }
+  }
+}

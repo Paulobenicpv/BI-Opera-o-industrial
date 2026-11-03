@@ -1,0 +1,9 @@
+{
+  "linhas_producao": 180,
+  "maquinas": 6,
+  "dias": 30,
+  "chaves_duplicadas": 0,
+  "minutos_conferidos": true,
+  "pecas_boas_conferidas": true,
+  "pecas_total": 106601
+}

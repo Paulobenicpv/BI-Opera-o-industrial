@@ -1,0 +1,11 @@
+{
+  "Producao": 106601,
+  "PecasBoas": 104746,
+  "OEE": 0.7822406538165684,
+  "Disponibilidade": 0.9115509259259259,
+  "Performance": 0.8733398511897205,
+  "Qualidade": 0.9825986623014793,
+  "MTBF_Horas": 8.41431623931624,
+  "MTTR_Horas": 0.45448717948717954,
+  "ParadasMin": 7642.0
+}

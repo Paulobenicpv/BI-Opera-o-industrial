@@ -1,0 +1,161 @@
+﻿OS;Data;MaquinaID;Tipo;Situacao;Descricao
+OS0001;2026-09-01;M03;Corretiva;Concluída;Inspeção de sensor
+OS0002;2026-09-01;M03;Corretiva;Concluída;Falha de acionamento
+OS0003;2026-09-01;M04;Corretiva;Concluída;Ajuste mecânico
+OS0004;2026-09-01;M04;Corretiva;Concluída;Inspeção de sensor
+OS0005;2026-09-01;M05;Corretiva;Concluída;Falha de acionamento
+OS0006;2026-09-01;M06;Corretiva;Concluída;Ajuste mecânico
+OS0007;2026-09-02;M02;Corretiva;Concluída;Inspeção de sensor
+OS0008;2026-09-02;M03;Corretiva;Concluída;Falha de acionamento
+OS0009;2026-09-02;M05;Corretiva;Concluída;Ajuste mecânico
+OS0010;2026-09-02;M06;Corretiva;Concluída;Falha de acionamento
+OS0011;2026-09-03;M01;Corretiva;Concluída;Falha de acionamento
+OS0012;2026-09-03;M03;Corretiva;Concluída;Ajuste mecânico
+OS0013;2026-09-03;M03;Corretiva;Concluída;Ajuste mecânico
+OS0014;2026-09-03;M04;Corretiva;Concluída;Falha de acionamento
+OS0015;2026-09-03;M05;Corretiva;Concluída;Ajuste mecânico
+OS0016;2026-09-04;M01;Corretiva;Concluída;Inspeção de sensor
+OS0017;2026-09-04;M01;Corretiva;Concluída;Falha de acionamento
+OS0018;2026-09-04;M02;Corretiva;Concluída;Falha de acionamento
+OS0019;2026-09-04;M04;Corretiva;Concluída;Ajuste mecânico
+OS0020;2026-09-04;M05;Corretiva;Concluída;Ajuste mecânico
+OS0021;2026-09-04;M05;Corretiva;Concluída;Falha de acionamento
+OS0022;2026-09-04;M06;Corretiva;Concluída;Inspeção de sensor
+OS0023;2026-09-05;M01;Corretiva;Concluída;Falha de acionamento
+OS0024;2026-09-05;M02;Corretiva;Concluída;Inspeção de sensor
+OS0025;2026-09-05;M03;Corretiva;Concluída;Inspeção de sensor
+OS0026;2026-09-05;M03;Corretiva;Concluída;Ajuste mecânico
+OS0027;2026-09-05;M04;Corretiva;Concluída;Inspeção de sensor
+OS0028;2026-09-05;M06;Corretiva;Concluída;Inspeção de sensor
+OS0029;2026-09-05;M06;Corretiva;Concluída;Ajuste mecânico
+OS0030;2026-09-06;M01;Corretiva;Concluída;Falha de acionamento
+OS0031;2026-09-06;M01;Corretiva;Concluída;Ajuste mecânico
+OS0032;2026-09-06;M02;Corretiva;Concluída;Inspeção de sensor
+OS0033;2026-09-06;M04;Corretiva;Concluída;Inspeção de sensor
+OS0034;2026-09-06;M04;Corretiva;Concluída;Inspeção de sensor
+OS0035;2026-09-06;M06;Corretiva;Concluída;Falha de acionamento
+OS0036;2026-09-07;M01;Corretiva;Concluída;Inspeção de sensor
+OS0037;2026-09-07;M01;Corretiva;Concluída;Inspeção de sensor
+OS0038;2026-09-07;M02;Corretiva;Concluída;Falha de acionamento
+OS0039;2026-09-07;M05;Corretiva;Concluída;Inspeção de sensor
+OS0040;2026-09-08;M01;Corretiva;Concluída;Inspeção de sensor
+OS0041;2026-09-08;M01;Corretiva;Concluída;Inspeção de sensor
+OS0042;2026-09-08;M03;Corretiva;Concluída;Ajuste mecânico
+OS0043;2026-09-08;M04;Corretiva;Concluída;Falha de acionamento
+OS0044;2026-09-08;M05;Corretiva;Concluída;Falha de acionamento
+OS0045;2026-09-08;M06;Corretiva;Concluída;Falha de acionamento
+OS0046;2026-09-08;M06;Corretiva;Concluída;Falha de acionamento
+OS0047;2026-09-09;M04;Corretiva;Concluída;Falha de acionamento
+OS0048;2026-09-09;M04;Corretiva;Concluída;Ajuste mecânico
+OS0049;2026-09-09;M05;Corretiva;Concluída;Ajuste mecânico
+OS0050;2026-09-09;M06;Corretiva;Concluída;Ajuste mecânico
+OS0051;2026-09-10;M03;Corretiva;Concluída;Ajuste mecânico
+OS0052;2026-09-10;M04;Corretiva;Concluída;Falha de acionamento
+OS0053;2026-09-10;M05;Corretiva;Concluída;Ajuste mecânico
+OS0054;2026-09-10;M05;Corretiva;Concluída;Inspeção de sensor
+OS0055;2026-09-11;M01;Corretiva;Concluída;Falha de acionamento
+OS0056;2026-09-11;M01;Corretiva;Concluída;Ajuste mecânico
+OS0057;2026-09-11;M02;Corretiva;Concluída;Inspeção de sensor
+OS0058;2026-09-11;M05;Corretiva;Concluída;Inspeção de sensor
+OS0059;2026-09-11;M05;Corretiva;Concluída;Falha de acionamento
+OS0060;2026-09-12;M01;Corretiva;Concluída;Ajuste mecânico
+OS0061;2026-09-12;M03;Corretiva;Concluída;Inspeção de sensor
+OS0062;2026-09-12;M05;Corretiva;Concluída;Inspeção de sensor
+OS0063;2026-09-12;M06;Corretiva;Concluída;Ajuste mecânico
+OS0064;2026-09-13;M01;Corretiva;Concluída;Ajuste mecânico
+OS0065;2026-09-13;M02;Corretiva;Concluída;Ajuste mecânico
+OS0066;2026-09-13;M03;Corretiva;Concluída;Inspeção de sensor
+OS0067;2026-09-13;M03;Corretiva;Concluída;Falha de acionamento
+OS0068;2026-09-13;M04;Corretiva;Concluída;Falha de acionamento
+OS0069;2026-09-13;M05;Corretiva;Concluída;Ajuste mecânico
+OS0070;2026-09-13;M06;Corretiva;Concluída;Falha de acionamento
+OS0071;2026-09-13;M06;Corretiva;Concluída;Falha de acionamento
+OS0072;2026-09-14;M02;Corretiva;Concluída;Ajuste mecânico
+OS0073;2026-09-14;M03;Corretiva;Concluída;Falha de acionamento
+OS0074;2026-09-14;M03;Corretiva;Concluída;Inspeção de sensor
+OS0075;2026-09-14;M06;Corretiva;Concluída;Falha de acionamento
+OS0076;2026-09-14;M06;Corretiva;Concluída;Falha de acionamento
+OS0077;2026-09-15;M01;Corretiva;Concluída;Falha de acionamento
+OS0078;2026-09-15;M02;Corretiva;Concluída;Falha de acionamento
+OS0079;2026-09-15;M03;Corretiva;Concluída;Inspeção de sensor
+OS0080;2026-09-15;M03;Corretiva;Concluída;Inspeção de sensor
+OS0081;2026-09-15;M05;Corretiva;Concluída;Inspeção de sensor
+OS0082;2026-09-15;M05;Corretiva;Concluída;Falha de acionamento
+OS0083;2026-09-15;M06;Corretiva;Concluída;Falha de acionamento
+OS0084;2026-09-16;M03;Corretiva;Concluída;Falha de acionamento
+OS0085;2026-09-16;M03;Corretiva;Concluída;Falha de acionamento
+OS0086;2026-09-16;M04;Corretiva;Concluída;Ajuste mecânico
+OS0087;2026-09-16;M04;Corretiva;Concluída;Falha de acionamento
+OS0088;2026-09-16;M05;Corretiva;Concluída;Inspeção de sensor
+OS0089;2026-09-16;M06;Corretiva;Concluída;Ajuste mecânico
+OS0090;2026-09-17;M02;Corretiva;Concluída;Inspeção de sensor
+OS0091;2026-09-17;M03;Corretiva;Concluída;Ajuste mecânico
+OS0092;2026-09-17;M04;Corretiva;Concluída;Ajuste mecânico
+OS0093;2026-09-17;M05;Corretiva;Concluída;Ajuste mecânico
+OS0094;2026-09-17;M05;Corretiva;Concluída;Ajuste mecânico
+OS0095;2026-09-17;M06;Corretiva;Concluída;Ajuste mecânico
+OS0096;2026-09-18;M02;Corretiva;Concluída;Falha de acionamento
+OS0097;2026-09-19;M01;Corretiva;Concluída;Ajuste mecânico
+OS0098;2026-09-19;M05;Corretiva;Concluída;Falha de acionamento
+OS0099;2026-09-19;M05;Corretiva;Concluída;Inspeção de sensor
+OS0100;2026-09-19;M06;Corretiva;Concluída;Falha de acionamento
+OS0101;2026-09-20;M02;Corretiva;Concluída;Ajuste mecânico
+OS0102;2026-09-20;M02;Corretiva;Concluída;Falha de acionamento
+OS0103;2026-09-20;M05;Corretiva;Concluída;Ajuste mecânico
+OS0104;2026-09-20;M05;Corretiva;Concluída;Inspeção de sensor
+OS0105;2026-09-20;M06;Corretiva;Concluída;Ajuste mecânico
+OS0106;2026-09-20;M06;Corretiva;Concluída;Ajuste mecânico
+OS0107;2026-09-21;M01;Corretiva;Concluída;Falha de acionamento
+OS0108;2026-09-21;M02;Corretiva;Concluída;Ajuste mecânico
+OS0109;2026-09-21;M03;Corretiva;Concluída;Inspeção de sensor
+OS0110;2026-09-21;M04;Corretiva;Concluída;Inspeção de sensor
+OS0111;2026-09-21;M05;Corretiva;Concluída;Ajuste mecânico
+OS0112;2026-09-21;M06;Corretiva;Concluída;Inspeção de sensor
+OS0113;2026-09-21;M06;Corretiva;Concluída;Falha de acionamento
+OS0114;2026-09-22;M01;Corretiva;Concluída;Ajuste mecânico
+OS0115;2026-09-22;M02;Corretiva;Concluída;Ajuste mecânico
+OS0116;2026-09-22;M04;Corretiva;Concluída;Ajuste mecânico
+OS0117;2026-09-22;M05;Corretiva;Concluída;Inspeção de sensor
+OS0118;2026-09-23;M02;Corretiva;Concluída;Inspeção de sensor
+OS0119;2026-09-23;M03;Corretiva;Concluída;Falha de acionamento
+OS0120;2026-09-23;M04;Corretiva;Concluída;Ajuste mecânico
+OS0121;2026-09-23;M04;Corretiva;Concluída;Falha de acionamento
+OS0122;2026-09-24;M01;Corretiva;Concluída;Ajuste mecânico
+OS0123;2026-09-24;M02;Corretiva;Concluída;Falha de acionamento
+OS0124;2026-09-24;M05;Corretiva;Concluída;Ajuste mecânico
+OS0125;2026-09-24;M05;Corretiva;Concluída;Falha de acionamento
+OS0126;2026-09-24;M06;Corretiva;Concluída;Falha de acionamento
+OS0127;2026-09-25;M04;Corretiva;Concluída;Falha de acionamento
+OS0128;2026-09-25;M04;Corretiva;Concluída;Ajuste mecânico
+OS0129;2026-09-25;M06;Corretiva;Concluída;Inspeção de sensor
+OS0130;2026-09-25;M06;Corretiva;Concluída;Ajuste mecânico
+OS0131;2026-09-26;M02;Corretiva;Concluída;Falha de acionamento
+OS0132;2026-09-26;M02;Corretiva;Concluída;Ajuste mecânico
+OS0133;2026-09-26;M03;Corretiva;Concluída;Falha de acionamento
+OS0134;2026-09-26;M05;Corretiva;Concluída;Falha de acionamento
+OS0135;2026-09-26;M06;Corretiva;Concluída;Ajuste mecânico
+OS0136;2026-09-26;M06;Corretiva;Concluída;Falha de acionamento
+OS0137;2026-09-27;M01;Corretiva;Concluída;Falha de acionamento
+OS0138;2026-09-27;M02;Corretiva;Concluída;Ajuste mecânico
+OS0139;2026-09-27;M04;Corretiva;Concluída;Ajuste mecânico
+OS0140;2026-09-27;M05;Corretiva;Concluída;Falha de acionamento
+OS0141;2026-09-28;M01;Corretiva;Concluída;Ajuste mecânico
+OS0142;2026-09-28;M02;Corretiva;Concluída;Ajuste mecânico
+OS0143;2026-09-28;M03;Corretiva;Concluída;Falha de acionamento
+OS0144;2026-09-29;M01;Corretiva;Concluída;Ajuste mecânico
+OS0145;2026-09-29;M02;Corretiva;Concluída;Inspeção de sensor
+OS0146;2026-09-29;M03;Corretiva;Concluída;Ajuste mecânico
+OS0147;2026-09-29;M03;Corretiva;Concluída;Ajuste mecânico
+OS0148;2026-09-29;M04;Corretiva;Concluída;Falha de acionamento
+OS0149;2026-09-29;M04;Corretiva;Concluída;Falha de acionamento
+OS0150;2026-09-29;M05;Corretiva;Concluída;Ajuste mecânico
+OS0151;2026-09-29;M06;Corretiva;Concluída;Inspeção de sensor
+OS0152;2026-09-29;M06;Corretiva;Concluída;Falha de acionamento
+OS0153;2026-09-30;M01;Corretiva;Concluída;Falha de acionamento
+OS0154;2026-09-30;M02;Corretiva;Concluída;Inspeção de sensor
+OS0155;2026-09-30;M03;Corretiva;Concluída;Inspeção de sensor
+OS0156;2026-09-30;M04;Corretiva;Concluída;Falha de acionamento
+OS0157;2026-09-30;M02;Corretiva;Aberta;Inspeção pendente (fictício)
+OS0158;2026-09-30;M04;Corretiva;Aberta;Inspeção pendente (fictício)
+OS0159;2026-09-30;M04;Corretiva;Aberta;Inspeção pendente (fictício)
+OS0160;2026-09-30;M05;Corretiva;Aberta;Inspeção pendente (fictício)
